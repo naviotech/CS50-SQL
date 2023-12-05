@@ -1,0 +1,1 @@
+SELECT "0m", "longitude", "latitude" FROM "normals" WHERE "0m" IS NOT NULL ORDER BY "0m","latitude" ASC LIMIT 10;

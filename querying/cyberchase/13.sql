@@ -1,0 +1,1 @@
+SELECT "title" FROM "episodes" WHERE "air_date" BETWEEN '2008-01-01' AND '2019-12-31';
